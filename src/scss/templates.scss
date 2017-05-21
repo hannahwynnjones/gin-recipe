@@ -1,0 +1,26 @@
+//colours:
+
+$grey: rgba(147, 168, 172, 1);
+$dark-blue: rgba(50, 74, 94, 1);
+$lemon: rgba(240, 249, 64, 1);
+$white: rgba(255, 255, 255, 1);
+$dust-pink: rgba(226, 180, 189, 1);
+$mint: rgba(174, 220, 192, 1);
+$peach: rgba(238, 180, 179, 1);
+$grey: rgba(109, 106, 117, 1);
+
+body {
+  font-family: 'Karla', sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: $grey;
+}
+
+* {
+  font-family: inherit;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
