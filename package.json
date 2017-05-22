@@ -1,5 +1,5 @@
 {
-  "name": "one-page-website",
+  "name": "gin-app",
   "version": "1.0.0",
   "description": "A example stack with gulp and angular",
   "main": "index.js",

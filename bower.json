@@ -1,5 +1,5 @@
 {
-  "name": "one-page-website",
+  "name": "gin-app",
   "description": "gulp and angular set-up",
   "main": "index.js",
   "authors": [
@@ -15,6 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "^1.5.8"
+    "angular": "^1.5.8",
+    "angular-ui-router": "^1.0.3"
   }
 }
