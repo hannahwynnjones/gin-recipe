@@ -14,7 +14,6 @@ $azure: #F0FFFF;
 //main
 // font-family: 'Cormorant Garamond', serif;
 
-
 // font-family: 'Libre Baskerville', serif;
 // font-family: 'Rufina', serif;
 // font-family: 'Forum', cursive;
@@ -34,4 +33,21 @@ body {
 a {
   color: black;
   text-decoration: none;
+}
+
+
+h1 {
+  font-family: 'Cormorant Garamond', serif;
+  color: #A9A9A9;
+}
+
+h3 {
+  color: #A9A9A9;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+}
+
+p {
+  font-family: 'Libre Baskerville', serif;
+  color: #333333
 }
