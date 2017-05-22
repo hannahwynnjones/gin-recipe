@@ -27,7 +27,8 @@ I then added the front-end link to the backend Cors file (in config). and then a
 
 ```sh
 $ heroku config:add NODE_ENV=production
-$ heroku config:add NPM_CONFIG_PRODUCTION=false```
+$ heroku config:add NPM_CONFIG_PRODUCTION=false
+```
 
 ### Still to do:
 

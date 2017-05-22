@@ -6,6 +6,12 @@
     float: left;
     display: block;
   }
+  .right-img, .left-img, .right-text, .left-text {
+    display: inline;
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
 }
 
 //"responsive" class is added to the topnav with JavaScript when the user clicks on the icon.
